@@ -148,6 +148,10 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
+## HEROKU HOSTED URL
+
+The project is also hosted on Heroku. You can refer this link
+[Heroku Taskup](https://rt-taskup.herokuapp.com)
 
 <!-- CONTACT -->
 ## Contact
