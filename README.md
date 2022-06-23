@@ -3,9 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rtaicdguy/taskup/blob/main/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">TASK-UP-Task Manager API</h3>
 
